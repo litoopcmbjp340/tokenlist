@@ -1,0 +1,30 @@
+{
+  "name": "tokenlist",
+  "version": "1.0.0",
+  "description": "Tokenlist for TrustSwap Launchpad",
+  "main": "index.mjs",
+  "dependencies": {},
+  "devDependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.16",
+    "ajv": "^6.12.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules --experimental-json-modules ./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrustSwap-fun/tokenlist.git"
+  },
+  "keywords": [
+    "tokens",
+    "tokenlist",
+    "uniswap",
+    "schema",
+    "ethereum"
+  ],
+  "bugs": {
+    "url": "https://github.com/TrustSwap-fun/tokenlist/issues"
+  },
+  "homepage": "https://github.com/TrustSwap-fun/tokenlist#readme"
+}
