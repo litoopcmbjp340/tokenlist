@@ -1,6 +1,6 @@
 import defaultExport from '@uniswap/token-lists';
 import Ajv from 'ajv';
-import * as data from './dist/all.json';
+import * as data from './docs/all.json';
 
 var ajv = new Ajv();
 var valid = ajv.addSchema(defaultExport.schema, 'mySchema')
