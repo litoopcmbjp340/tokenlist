@@ -1,0 +1,47 @@
+{
+  "name": "TrustSwap Launchpad",
+  "logoURI": "https://trustswap.fun/tokenlist/trustswap_32.png",
+  "keywords": [
+    "defi"
+  ],
+  "tags": {
+    "defi": {
+      "name": "Defi",
+      "description": "Digital assets and financial smart contracts, protocols, and decentralized applications built on Ethereum"
+    },
+    "gaming": {
+      "name": "Gaming",
+      "description": "Tokens related to gaming and entertainment"
+    }
+  },
+  "timestamp": "2020-09-15T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
+      "symbol": "SWAP",
+      "name": "TrustSwap",
+      "decimals": 18,
+      "logoURI": "https://trustswap.fun/tokenlist/trustswap_32.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
+      "symbol": "CHAIN",
+      "name": "Chain Games",
+      "decimals": 18,
+      "logoURI": "https://trustswap.fun/tokenlist/chain_32.png",
+      "tags": [
+        "gaming"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
